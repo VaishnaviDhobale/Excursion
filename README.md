@@ -13,6 +13,6 @@ Go live:- [https://vaishnavidhobale.github.io/Excursion/]
 - 📎 Simple and well-structured HTML/CSS
 
 ## Site Snapshots
-[Image1](./assets/img_1.png)
-[Image2](./assets/img_2.png)
-[Image3](./assets/img_3.png)
+![Image1](./assets/img_1.png)
+![Image2](./assets/img_2.png)
+![Image3](./assets/img_3.png)
